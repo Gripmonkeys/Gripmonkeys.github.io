@@ -4,6 +4,7 @@
 .icon-emo-sunglasses:before { content: '\e802'; } /* '' */
 .icon-paypal:before { content: '\e803'; } /* '' */
 .icon-bitcoin:before { content: '\e804'; } /* '' */
+.icon-credit-card:before { content: '\e805'; } /* '' */
 .icon-gauge:before { content: '\e806'; } /* '' */
 .icon-th-large-outline:before { content: '\e80c'; } /* '' */
 .icon-users:before { content: '\e813'; } /* '' */
@@ -12,3 +13,8 @@
 .icon-flow-cross:before { content: '\e81b'; } /* '' */
 .icon-lightbulb:before { content: '\e81c'; } /* '' */
 .icon-mail-1:before { content: '\e81e'; } /* '' */
+.icon-cc-visa:before { content: '\f1f0'; } /* '' */
+.icon-cc-mastercard:before { content: '\f1f1'; } /* '' */
+.icon-cc-amex:before { content: '\f1f3'; } /* '' */
+.icon-amex:before { content: '\f326'; } /* '' */
+.icon-mastercard:before { content: '\f329'; } /* '' */

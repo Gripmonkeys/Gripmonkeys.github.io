@@ -48,7 +48,7 @@ Font license info
 
 ## Font Awesome
 
-   Copyright (C) 2012 by Dave Gandy
+   Copyright (C) 2016 by Dave Gandy
 
    Author:    Dave Gandy
    License:   SIL ()
@@ -71,5 +71,14 @@ Font license info
    Author:    Designmodo for Smashing Magazine
    License:   CC BY ()
    Homepage:  http://designmodo.com/linecons-free/
+
+
+## Brandico
+
+   (C) 2012 by Vitaly Puzrin
+
+   Author:    Crowdsourced, for Fontello project
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  
 
 

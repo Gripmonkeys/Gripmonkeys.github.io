@@ -83,6 +83,42 @@
       "css": "mail-1",
       "code": 59422,
       "src": "linecons"
+    },
+    {
+      "uid": "4e7a8235533632f4df7ba7a2c68cd39d",
+      "css": "cc-amex",
+      "code": 61939,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ca0f6425e0c44d613febeb0f23fa8ddf",
+      "css": "amex",
+      "code": 62246,
+      "src": "brandico"
+    },
+    {
+      "uid": "e3ed188ab8569b45cf41e74ce81aa86e",
+      "css": "cc-visa",
+      "code": 61936,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b1bfce8593a2c1c7d60b9145ada2adf",
+      "css": "cc-mastercard",
+      "code": 61937,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c3043114c56d36658e5cae51d36281c8",
+      "css": "mastercard",
+      "code": 62249,
+      "src": "brandico"
+    },
+    {
+      "uid": "3d8cc269fdad8a4cda55a20542a84e5c",
+      "css": "credit-card",
+      "code": 59397,
+      "src": "fontawesome"
     }
   ]
 }

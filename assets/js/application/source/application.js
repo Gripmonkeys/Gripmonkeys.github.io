@@ -204,6 +204,11 @@ $(document).ready(function(){
       initTranslationsWithLang($(this).val());
     });
 
+    $('#price-select').on('change', function() {
+       var price = $("#price-select option:selected").attr("price");
+       $('#price-to-pay').html(price);
+    });
+
 });
 
 
