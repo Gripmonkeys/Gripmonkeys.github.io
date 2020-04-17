@@ -194,9 +194,8 @@ $(document).ready(function(){
           checkAvailableLanguages: true,
           async: true,
           callback: function() {
-              $('title').text(jQuery.i18n.prop('msg_hello'));
+              $('title').text(jQuery.i18n.prop('msg_title'));
               $('#msg_enter').text(jQuery.i18n.prop('msg_enter'));
-              console.log("title:", $('title').text)
           }
       });
     }
