@@ -196,6 +196,7 @@ $(document).ready(function(){
           callback: function() {
               $('title').text(jQuery.i18n.prop('msg_hello'));
               $('#msg_enter').text(jQuery.i18n.prop('msg_enter'));
+              console.log("title:", $('title').text)
           }
       });
     }
